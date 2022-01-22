@@ -1,0 +1,41 @@
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25%;
+}
+
+.welcome label {
+  text-align: center;
+}
+
+.welcome label:first-child {
+  font-weight: bold;
+}
+
+.welcome label:nth-child(2) {
+  font-size: 12px;
+  color: gray;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.list {
+  height: 100%;
+  margin-bottom: 100px;
+}
+
+.addThoughtButton {
+  width: 100%;
+  background-color: orange;
+  color: white;
+  text-transform: uppercase;
+  position: fixed;
+  bottom: 30px;
+  height: 30px;
+  border: none;
+}

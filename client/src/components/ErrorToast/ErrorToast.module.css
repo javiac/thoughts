@@ -1,0 +1,11 @@
+.errorToast {
+  position: absolute;
+  top: 0;
+  background-color: red;
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}

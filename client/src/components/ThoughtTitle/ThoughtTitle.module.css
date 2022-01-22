@@ -1,0 +1,13 @@
+.thoughtTitle {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.date {
+  color: gray;
+  font-size: 12px;
+}

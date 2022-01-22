@@ -1,0 +1,29 @@
+.thoughtItem {
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  justify-content: space-between;
+  gap: 15px;
+  cursor: pointer;
+}
+
+.thoughtItemRight {
+  display: flex;
+  align-items: center;
+  box-shadow: 1px 1px 1px grey;
+  border: 1px solid gray;
+  padding: 15px;
+  justify-content: space-between;
+  gap: 15px;
+  width: 100%;
+}
+
+.arrow {
+  color: orange;
+  font-weight: bold;
+}
+
+.moodIcon {
+  height: 60px;
+  width: 60px;
+}
