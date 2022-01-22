@@ -2,6 +2,7 @@
 
 ![Alt text](doc/thoughtsList.png 'screenshot')
 ![Alt text](doc/modal.png 'screenshot')
+![Alt text](doc/error.png 'screenshot')
 
 ## Project structure
 
