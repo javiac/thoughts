@@ -1,4 +1,4 @@
-# Mars Rover
+# Thoughts
 
 ![Alt text](doc/thoughtsList.png 'screenshot')
 ![Alt text](doc/modal.png 'screenshot')
