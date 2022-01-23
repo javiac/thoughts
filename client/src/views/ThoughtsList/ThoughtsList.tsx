@@ -38,7 +38,7 @@ export const ThoughtsList: ComponentType = () => {
   }
 
   return (
-    <div className={styles.list}>
+    <div className={styles.list} automation-name="thoughtList">
       <div className={styles.title}> Thoughts </div>
 
       {thoughts.length === 0 && (
